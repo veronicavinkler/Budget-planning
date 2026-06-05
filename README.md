@@ -72,5 +72,12 @@ Projekt järgib **MVVM (Model-View-ViewModel)** ja Clean Architecture põhimõtt
 <img width="309" height="629" alt="image" src="https://github.com/user-attachments/assets/10b46226-4d02-4442-82b5-635f0afe36c6" />
 <img width="309" height="629" alt="image" src="https://github.com/user-attachments/assets/b5f89c75-4f6b-4656-b74c-c3399511bd5b" />
 
-<img width="300" height="628" alt="image" src="https://github.com/user-attachments/assets/a9fab823-5bbf-495a-8996-cde9dc465b14" />
+
+https://github.com/user-attachments/assets/2b027718-7b3e-4377-92ab-f46d558a676e
+
+
+
+
+
+
 
