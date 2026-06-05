@@ -3,7 +3,7 @@
 ## 1. Projekti üldinfo
 * **Projekti nimi:** Budget Planning
 * **Lühikirjeldus:** Mobiilirakendus, mis aitab kasutajatel jälgida oma igapäevaseid tulusid ja kulusid, määrata eelarveid ning saada selge visuaalne ülevaade oma finantsolukorrast.
-* **Meeskonna liikmed:** Veronica Vinkler [ja teised liikmed, kui on]
+* **Meeskonna liikmed:** Veronica Vinkler
 
 ---
 
@@ -29,10 +29,8 @@
 
 ## 4. Kasutatud tehnoloogiad
 * **Programmeerimiskeel:** Kotlin
-* **Kasutajaliides (UI):** [Jetpack Compose vms - asenda õigega]
-* **Andmebaas:** [Room Database / SQLite / Firebase vms - asenda õigega]
+* **Kasutajaliides (UI):** Jetpack Compose
 * **Arhitektuuri komponendid:** ViewModel, LiveData / Flow, Navigation component
-* **Sõltuvuste süstimine (DI):** [Hilt / Koin / puudub - asenda õigega]
 
 ---
 
@@ -65,3 +63,14 @@ Projekt järgib **MVVM (Model-View-ViewModel)** ja Clean Architecture põhimõtt
 1. **Laadi projekt alla (Klooni repositoorium):**
 ```bash
    git clone [https://github.com/veronicavinkler/Budget-planning.git](https://github.com/veronicavinkler/Budget-planning.git)
+```
+
+### 8. Rakendus
+<img width="309" height="629" alt="image" src="https://github.com/user-attachments/assets/75db504b-0b95-489f-8946-0236be2ceb33" />
+<img width="309" height="629" alt="image" src="https://github.com/user-attachments/assets/5982c90e-3cf8-46bf-a496-2a177f00feb1" />
+
+<img width="309" height="629" alt="image" src="https://github.com/user-attachments/assets/10b46226-4d02-4442-82b5-635f0afe36c6" />
+<img width="309" height="629" alt="image" src="https://github.com/user-attachments/assets/b5f89c75-4f6b-4656-b74c-c3399511bd5b" />
+
+<img width="300" height="628" alt="image" src="https://github.com/user-attachments/assets/a9fab823-5bbf-495a-8996-cde9dc465b14" />
+
